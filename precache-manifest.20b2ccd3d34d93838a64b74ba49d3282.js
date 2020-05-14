@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/notelighter/c54c338c088dfe9af1a8.worker.js.LICENSE.txt"
   },
   {
-    "revision": "7e3448c73004219bbc2d5bbe77f050c4",
+    "revision": "573974a5910c403614fdedc70e07bff1",
     "url": "/notelighter/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/notelighter/static/css/2.35fcc229.chunk.css"
   },
   {
-    "revision": "fe72c2b97d477ecdaf01",
-    "url": "/notelighter/static/css/main.7ae5cb59.chunk.css"
+    "revision": "d9ffc78a667332e16a43",
+    "url": "/notelighter/static/css/main.d3864361.chunk.css"
   },
   {
     "revision": "84dba03649d51fa25555",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/notelighter/static/js/2.c8e3ac71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe72c2b97d477ecdaf01",
+    "revision": "d9ffc78a667332e16a43",
     "url": "/notelighter/static/js/main.6ca2346a.chunk.js"
   },
   {
